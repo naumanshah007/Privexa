@@ -87,7 +87,7 @@ export const siteConfig = {
       icon: "Shield",
     },
     {
-      name: "Referral Grading",
+      name: "Referral Grading System",
       description: "AI-powered system that analyzes thousands of GP requests and suggests best-fit referral paths per hospital policies",
       status: "available",
       icon: "Stethoscope",

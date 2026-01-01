@@ -9,7 +9,7 @@ Privexa Limited is a technology company specializing in AI solutions for regulat
 ## Products & Solutions
 
 - **Privexa**: On-premise generative AI platform for healthcare and financial services
-- **Referral Grading**: AI-powered system for hospitals to analyze GP requests and suggest best-fit pathways
+- **Referral Grading System**: AI-powered system for hospitals to analyze GP requests and suggest best-fit pathways
 - **AI Vision Assistant**: AI-based assistance app for blind people, serving as their digital eyes
 - **Accessibility Solutions**: Pipeline of solutions for disabled persons
 

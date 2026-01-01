@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     "privacy-first AI",
     "AI solutions",
     "Privexa",
-    "Referral Grading",
+    "Referral Grading System",
     "AI Vision Assistant",
     "enterprise AI platform",
   ],
