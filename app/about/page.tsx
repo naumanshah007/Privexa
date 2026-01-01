@@ -139,19 +139,22 @@ export default function AboutPage() {
               <CardContent>
                 <CardDescription className="text-sm leading-relaxed text-justify">
                   Nauman is a highly driven Data & AI Specialist and Solution Architect with extensive experience 
-                  in financial crime analytics (AML/CFT, fraud detection, and sanctions screening). He has 
-                  successfully integrated advanced AI and LLM solutions (GPT-4, BERT, Gemini-pro, O1, Meta Llama, 
-                  Falcon, Mistral) to detect suspicious activities, reduce false positives by up to 70%, and 
-                  enhance risk management. His expertise spans building end-to-end data pipelines, BI dashboards, 
-                  and privacy-preserving frameworks that meet strict regulatory standards.
+                  in financial crime analytics (AML/CFT, fraud detection, and sanctions screening), as well as 
+                  deep domain expertise in clinical trials and oncology-related data. He has successfully integrated 
+                  advanced AI and LLM solutions (GPT-4, BERT, Gemini-pro, O1, Meta Llama, Falcon, Mistral) to 
+                  detect suspicious activities, reduce false positives by up to 70%, and enhance risk management. 
+                  His expertise spans building end-to-end data pipelines, BI dashboards, and privacy-preserving 
+                  frameworks that meet strict regulatory standards.
                 </CardDescription>
                 <CardDescription className="text-sm leading-relaxed mt-3 text-justify">
                   Currently serving as Business Intelligence Developer at Watercare Services Limited, Nauman 
                   provides AI and Generative AI solutions, manages data integration and quality control processes, 
                   and develops interactive Power BI reports that improve decision-making efficiency by 40%. 
                   Previously, as Lead Data Scientist at CancerClarity LLC, he led the development of AI-driven 
-                  clinical trial matching systems using NLP, TensorFlow, and BERT models, boosting patient 
-                  engagement and matching rates by 50% and improving trial selection accuracy by 35%.
+                  clinical trial matching systems using NLP, TensorFlow, and BERT models, working extensively 
+                  with oncology data and clinical trial datasets. His work boosted patient engagement and matching 
+                  rates by 50% and improved trial selection accuracy by 35%, demonstrating deep expertise in 
+                  clinical research and oncology analytics.
                 </CardDescription>
                 <CardDescription className="text-sm leading-relaxed mt-3 text-justify">
                   Nauman has delivered custom AI solutions across 30+ freelance projects, maintaining a 100% 
