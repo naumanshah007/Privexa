@@ -151,7 +151,7 @@ export default function GynecologyReferralPage() {
               </p>
               <p>
                 <span className="font-semibold text-gray-900 dark:text-gray-100">Specialized Clinics:</span>{" "}
-                Optimize referral routing for specialized gynecology services and procedures.
+                Optimize referral routing for specialized medical services and procedures across various specialties.
               </p>
             </div>
           </CardContent>
