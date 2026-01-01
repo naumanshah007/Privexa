@@ -1,11 +1,11 @@
 import { ContactForm } from "@/components/sections/ContactForm";
 import { siteConfig } from "@/config/site";
-import { Mail, MapPin, Phone } from "lucide-react";
+import { Mail, MapPin } from "lucide-react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/Card";
 
 export const metadata = {
   title: "Contact",
-  description: `Get in touch with ${siteConfig.companyName}. Request a demo or contact us at info@privexa.io.`,
+  description: `Get in touch with ${siteConfig.companyName}. Request a demo or contact us at info@privexa.co.`,
   keywords: ["contact", "request demo", "Privexa Limited contact", "enterprise AI consultation", "AI solutions contact"],
 };
 
@@ -45,29 +45,6 @@ export default function ContactPage() {
                     >
                       {siteConfig.company.email}
                     </a>
-                  </div>
-                </div>
-
-                <div className="flex items-start gap-4">
-                  <div className="w-10 h-10 bg-gradient-to-br from-primary-500 to-cyan-500 rounded-lg flex items-center justify-center flex-shrink-0">
-                    <Phone className="w-5 h-5 text-white" />
-                  </div>
-                  <div>
-                    <p className="font-semibold text-gray-900 dark:text-gray-100 mb-1">Phone</p>
-                    <div className="space-y-1">
-                      <a
-                        href={`tel:${siteConfig.team.nauman.phone}`}
-                        className="block text-primary-600 dark:text-primary-400 hover:underline transition-colors"
-                      >
-                        Nauman: {siteConfig.team.nauman.phone}
-                      </a>
-                      <a
-                        href={`tel:${siteConfig.team.ehsan.phone}`}
-                        className="block text-primary-600 dark:text-primary-400 hover:underline transition-colors"
-                      >
-                        Ehsan: {siteConfig.team.ehsan.phone}
-                      </a>
-                    </div>
                   </div>
                 </div>
 

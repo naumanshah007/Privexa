@@ -29,7 +29,7 @@ export const socialLinks: SocialLink[] = [
   },
   {
     name: "Email",
-    href: "mailto:info@privexa.io",
+    href: "mailto:info@privexa.co",
     icon: "Mail",
   },
 ];

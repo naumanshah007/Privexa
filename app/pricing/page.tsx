@@ -43,8 +43,8 @@ export default function PricingPage() {
                 </Link>
               </Button>
               <Button asChild variant="outline" size="lg">
-                <a href="mailto:info@privexa.io">
-                  Contact info@privexa.io
+                <a href="mailto:info@privexa.co">
+                  Contact info@privexa.co
                 </a>
               </Button>
             </div>

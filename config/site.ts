@@ -22,7 +22,7 @@ export const siteConfig = {
   company: {
     name: "Privexa Limited",
     location: "Auckland, New Zealand",
-    email: "info@privexa.io",
+    email: "info@privexa.co",
     phone: "+64 (0) X XXX XXXX",
     address: "Auckland, New Zealand",
   },
@@ -32,12 +32,12 @@ export const siteConfig = {
     nauman: {
       name: "Nauman Shah",
       phone: "+642108608617",
-      email: "info@privexa.io",
+      email: "info@privexa.co",
     },
     ehsan: {
       name: "Ehsan Ullah",
       phone: "+64220141390",
-      email: "info@privexa.io",
+      email: "info@privexa.co",
     },
   },
   
