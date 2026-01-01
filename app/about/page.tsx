@@ -134,36 +134,31 @@ export default function AboutPage() {
                 </div>
                 <h3 className="text-2xl font-bold text-gray-900 dark:text-gray-100 mb-1">Nauman Shah</h3>
                 <p className="text-sm font-semibold text-primary-600 dark:text-primary-400 mb-1">Co-Founder & VP of Technology</p>
-                <p className="text-xs text-gray-500 dark:text-gray-400">AI & Data Analytics | Agentic AI | Solution Architect | Security-Focused On-Prem Solutions</p>
+                <p className="text-xs text-gray-500 dark:text-gray-400">AI & Data Analytics | Agentic AI | Solution Architecture | Privacy & Security-First Platforms</p>
               </div>
               <CardContent>
                 <CardDescription className="text-sm leading-relaxed text-justify">
-                  Nauman is a highly driven Data & AI Specialist and Solution Architect with extensive experience 
-                  in financial crime analytics (AML/CFT, fraud detection, and sanctions screening), as well as 
-                  deep domain expertise in clinical trials and oncology-related data. He has successfully integrated 
-                  advanced AI and cutting-edge LLM solutions, including leading models from OpenAI, Google, Meta, 
-                  and other major AI providers, to detect suspicious activities, reduce false positives by up to 70%, 
-                  and enhance risk management. His expertise spans building end-to-end data pipelines, BI dashboards, 
-                  and privacy-preserving frameworks that meet strict regulatory standards.
+                  Nauman is a Data & AI specialist and solution architect focused on building secure, enterprise-grade 
+                  AI systems—especially for regulated environments. His work spans financial crime analytics (AML/CFT, 
+                  fraud detection, sanctions screening) and healthcare/clinical research, with deep experience in 
+                  clinical trials and oncology datasets. He has delivered privacy-preserving AI and LLM solutions 
+                  across modern model ecosystems, enabling organizations to adopt generative AI safely while meeting 
+                  strict governance and compliance requirements.
                 </CardDescription>
                 <CardDescription className="text-sm leading-relaxed mt-3 text-justify">
-                  Currently serving as Business Intelligence Developer at Watercare Services Limited, Nauman 
-                  provides AI and Generative AI solutions, manages data integration and quality control processes, 
-                  and develops interactive Power BI reports that improve decision-making efficiency by 40%. 
-                  Previously, as Lead Data Scientist at CancerClarity LLC, he led the development of AI-driven 
-                  clinical trial matching systems using NLP, TensorFlow, and BERT models, working extensively 
-                  with oncology data and clinical trial datasets. His work boosted patient engagement and matching 
-                  rates by 50% and improved trial selection accuracy by 35%, demonstrating deep expertise in 
-                  clinical research and oncology analytics.
+                  Currently, Nauman serves as a Business Intelligence Developer at Watercare Services Limited, where 
+                  he leads data integration and quality assurance initiatives and develops decision-ready analytics and 
+                  reporting solutions. Previously, he was Lead Data Scientist at CancerClarity LLC, where he built 
+                  AI-driven clinical trial matching capabilities using NLP and transformer-based models, improving 
+                  trial relevance and patient-to-study alignment outcomes.
                 </CardDescription>
                 <CardDescription className="text-sm leading-relaxed mt-3 text-justify">
-                  Nauman has delivered custom AI solutions across 30+ freelance projects, maintaining a 100% 
-                  job success rate. He has spearheaded fraud detection projects using BERT models and FastAPI, 
-                  achieving a 70% reduction in false positives. He utilizes Agentic AI frameworks like CrewAI 
-                  to automate complex research tasks and has developed privacy-preserving frameworks for secure 
-                  LLM interactions. He is Oracle Cloud Infrastructure Generative AI Certified Professional and 
-                  brings strong hands-on expertise in Python, SQL, Snowflake, dbt, Power BI, TensorFlow, PyTorch, 
-                  and modern LLM frameworks.
+                  Across 30+ client engagements, Nauman has delivered production-grade AI and data solutions end to 
+                  end—from data pipelines and APIs to dashboards and automation—maintaining a 100% delivery track record. 
+                  His technical toolkit includes Python, SQL, Snowflake, dbt, Power BI, FastAPI, and modern ML 
+                  frameworks (TensorFlow/PyTorch), with practical experience applying agentic workflows to automate 
+                  complex analysis and research tasks. He is also an Oracle Cloud Infrastructure Generative AI 
+                  Certified Professional.
                 </CardDescription>
               </CardContent>
             </Card>
