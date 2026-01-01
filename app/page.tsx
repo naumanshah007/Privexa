@@ -46,8 +46,8 @@ export default function HomePage() {
   return (
     <>
       <Hero
-        headline="Transforming Industries with Secure AI Solutions"
-        description={siteConfig.companyDescription}
+        headline="Delivering Innovative AI Solutions Across Industries"
+        description="We build specialized AI solutions for healthcare, finance, accessibility, and enterprise—each designed to solve real-world challenges while maintaining the highest standards of privacy and compliance."
         primaryCTA={{
           label: "Explore Our Products",
           href: "/products",
@@ -57,7 +57,7 @@ export default function HomePage() {
           href: "/about",
         }}
         badge={{
-          text: "Innovative AI Solutions",
+          text: `${siteConfig.products.length} AI Solutions`,
           icon: <Zap className="w-4 h-4" />,
         }}
         className="bg-slate-950 dark:bg-slate-950 text-white"
@@ -71,7 +71,8 @@ export default function HomePage() {
             <p className="text-lg text-gray-600 dark:text-gray-400 leading-relaxed">
               {siteConfig.companyName} is a technology company dedicated to delivering cutting-edge AI solutions 
               that transform industries while maintaining the highest standards of privacy, security, and compliance. 
-              We combine top-tier talent with deep domain expertise to build solutions that address real-world challenges.
+              We combine top-tier talent with deep domain expertise to build a diverse portfolio of specialized AI products, 
+              each designed to address specific industry challenges—from healthcare and finance to accessibility and enterprise solutions.
             </p>
           </div>
 
@@ -118,8 +119,9 @@ export default function HomePage() {
           <div className="text-center mb-16">
             <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold mb-4 text-gradient">Our Products & Solutions</h2>
             <p className="text-lg text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
-              {siteConfig.companyName} delivers innovative AI solutions across multiple industries, 
-              each designed to address specific challenges while maintaining the highest standards of security and compliance.
+              {siteConfig.companyName} delivers a portfolio of specialized AI solutions across multiple industries. 
+              Each product is designed to address specific challenges while maintaining the highest standards of security and compliance. 
+              Our flagship product, <span className="font-semibold text-gray-900 dark:text-gray-100">Privexa</span>, is one of several solutions we&apos;ve built to serve different market needs.
             </p>
           </div>
 

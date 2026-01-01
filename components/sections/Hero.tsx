@@ -115,8 +115,17 @@ export function Hero({
           {/* Key Benefit Line */}
           <div className="text-center mb-5 lg:mb-6 animate-fade-in-up" style={{ animationDelay: "0.35s" }}>
             <p className="text-sm sm:text-base text-cyan-300/90 font-medium">
-              Innovative AI Solutions • Privacy-First Approach • Industry Expertise
+              Multiple AI Products • Privacy-First Approach • Industry-Specific Solutions
             </p>
+          </div>
+          
+          {/* Product Count Indicator */}
+          <div className="flex justify-center mb-6 lg:mb-7 animate-fade-in-up" style={{ animationDelay: "0.38s" }}>
+            <div className="inline-flex items-center gap-2 px-4 py-2 glass rounded-lg text-xs sm:text-sm font-medium text-cyan-200/80 backdrop-blur-md border border-cyan-500/20">
+              <span className="text-cyan-300 font-semibold">{siteConfig.products.length} Specialized Solutions</span>
+              <span className="text-cyan-400/60">•</span>
+              <span className="text-cyan-200/70">Available Now</span>
+            </div>
           </div>
           
           {/* Value Props - compact horizontal row */}
