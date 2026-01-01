@@ -141,10 +141,10 @@ export default function AboutPage() {
                   Nauman is a highly driven Data & AI Specialist and Solution Architect with extensive experience 
                   in financial crime analytics (AML/CFT, fraud detection, and sanctions screening), as well as 
                   deep domain expertise in clinical trials and oncology-related data. He has successfully integrated 
-                  advanced AI and LLM solutions (GPT-4, BERT, Gemini-pro, O1, Meta Llama, Falcon, Mistral) to 
-                  detect suspicious activities, reduce false positives by up to 70%, and enhance risk management. 
-                  His expertise spans building end-to-end data pipelines, BI dashboards, and privacy-preserving 
-                  frameworks that meet strict regulatory standards.
+                  advanced AI and cutting-edge LLM solutions, including leading models from OpenAI, Google, Meta, 
+                  and other major AI providers, to detect suspicious activities, reduce false positives by up to 70%, 
+                  and enhance risk management. His expertise spans building end-to-end data pipelines, BI dashboards, 
+                  and privacy-preserving frameworks that meet strict regulatory standards.
                 </CardDescription>
                 <CardDescription className="text-sm leading-relaxed mt-3 text-justify">
                   Currently serving as Business Intelligence Developer at Watercare Services Limited, Nauman 
