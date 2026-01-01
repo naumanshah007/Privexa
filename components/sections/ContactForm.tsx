@@ -30,10 +30,20 @@ export function ContactForm() {
         body: JSON.stringify(formData),
       });
 
-      const data = await response.json();
+      let data;
+      try {
+        data = await response.json();
+      } catch (e) {
+        // If response is not JSON, get text
+        const text = await response.text();
+        console.error("Non-JSON response:", text);
+        throw new Error("Server error. Please check Vercel logs.");
+      }
 
       if (!response.ok) {
-        throw new Error(data.error || "Failed to send message");
+        const errorMessage = data?.error || `Failed to send message (Status: ${response.status})`;
+        console.error("API error:", errorMessage, data);
+        throw new Error(errorMessage);
       }
 
       setSubmitStatus("success");
@@ -132,7 +142,8 @@ export function ContactForm() {
 
           {submitStatus === "error" && (
             <div className="p-4 bg-red-50 border border-red-200 rounded-md text-red-800 dark:bg-red-900/20 dark:border-red-800 dark:text-red-200">
-              Something went wrong. Please try again later.
+              Something went wrong. Please try again later or contact us directly at{" "}
+              <a href="mailto:info@privexa.co" className="underline">info@privexa.co</a>.
             </div>
           )}
 
