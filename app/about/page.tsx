@@ -148,7 +148,7 @@ export default function AboutPage() {
                 <CardDescription className="text-sm leading-relaxed mt-3 text-justify">
                   Nauman has worked as a Business Intelligence Developer at Watercare Services Limited, where 
                   he led data integration and quality assurance initiatives and developed decision-ready analytics and 
-                  reporting solutions. He has also worked in the banking sector, focusing on financial crime analytics 
+                  reporting solutions. He is currently engaged in the banking sector, focusing on financial crime analytics 
                   and risk management. Previously, he was Lead Data Scientist at CancerClarity LLC, where he built 
                   AI-driven clinical trial matching capabilities using NLP and transformer-based models, improving 
                   trial relevance and patient-to-study alignment outcomes. He has engaged extensively with healthcare 
