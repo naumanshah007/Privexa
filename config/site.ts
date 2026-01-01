@@ -15,8 +15,8 @@ export const siteConfig = {
   description: "Enabling Safe Enterprise AI Without Data Exposure", // Product description
   
   // Domain & URLs
-  domain: "privexa.io",
-  url: "https://privexa.io",
+  domain: "privexa.co",
+  url: "https://www.privexa.co",
   
   // Company Details
   company: {
