@@ -188,7 +188,7 @@ export default function HomePage() {
                         ) : (
                           <Link 
                             href={
-                              product.name === "Gynecology Referral Grading System"
+                              product.name === "Referral Grading"
                                 ? "/products/gynecology-referral"
                                 : product.name === "AI Vision Assistant"
                                 ? "/products/ai-vision-assistant"

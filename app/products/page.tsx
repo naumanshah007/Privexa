@@ -168,7 +168,7 @@ export default function ProductsPage() {
                       href={
                         product.name === "Privexa" 
                           ? "/products#demo" 
-                          : product.name === "Gynecology Referral Grading System"
+                          : product.name === "Referral Grading"
                           ? "/products/gynecology-referral"
                           : product.name === "AI Vision Assistant"
                           ? "/products/ai-vision-assistant"

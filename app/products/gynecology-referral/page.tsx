@@ -63,7 +63,7 @@ export default function GynecologyReferralPage() {
               <Stethoscope className="w-6 h-6 sm:w-7 sm:h-7 text-white" />
             </div>
             <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-gradient">
-              Gynecology Referral Grading System
+              Referral Grading
             </h1>
           </div>
           <p className="text-base sm:text-lg text-gray-600 dark:text-gray-400 max-w-3xl mx-auto leading-relaxed">
@@ -81,7 +81,7 @@ export default function GynecologyReferralPage() {
           <CardContent>
             <div className="space-y-4 text-base leading-relaxed text-gray-600 dark:text-gray-400">
               <p>
-                The Gynecology Referral Grading System is an innovative AI solution designed to 
+                Referral Grading is an innovative AI solution designed to 
                 transform how healthcare systems handle referral requests. By leveraging advanced 
                 artificial intelligence, the system analyzes thousands of general practitioner (GP) 
                 referral requests and automatically suggests the most appropriate referral pathways 
@@ -165,7 +165,7 @@ export default function GynecologyReferralPage() {
                 Interested in Learning More?
               </h3>
               <p className="text-sm sm:text-base text-gray-600 dark:text-gray-400 mb-4 sm:mb-6 max-w-2xl mx-auto leading-relaxed">
-                Contact us to learn more about the Gynecology Referral Grading System and how it 
+                Contact us to learn more about Referral Grading and how it 
                 can transform your healthcare referral processes.
               </p>
               <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center">
