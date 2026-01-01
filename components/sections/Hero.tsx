@@ -122,7 +122,7 @@ export function Hero({
           {/* Product Count Indicator */}
           <div className="flex justify-center mb-6 lg:mb-7 animate-fade-in-up" style={{ animationDelay: "0.38s" }}>
             <div className="inline-flex items-center gap-2 px-4 py-2 glass rounded-lg text-xs sm:text-sm font-medium text-cyan-200/80 backdrop-blur-md border border-cyan-500/20">
-              <span className="text-cyan-300 font-semibold">{siteConfig.products.length} Specialized Solutions</span>
+              <span className="text-cyan-300 font-semibold">Many Specialized Solutions</span>
               <span className="text-cyan-400/60">•</span>
               <span className="text-cyan-200/70">Available Now</span>
             </div>

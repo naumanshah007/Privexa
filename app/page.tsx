@@ -57,7 +57,7 @@ export default function HomePage() {
           href: "/about",
         }}
         badge={{
-          text: `${siteConfig.products.length} AI Solutions`,
+          text: "Multi-Product AI Company",
           icon: <Zap className="w-4 h-4" />,
         }}
         className="bg-slate-950 dark:bg-slate-950 text-white"
