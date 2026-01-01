@@ -63,7 +63,7 @@ export function Header() {
 
       {/* Enhanced Mobile Menu */}
       {mobileMenuOpen && (
-        <div className="md:hidden border-t border-gray-200/50 dark:border-gray-800/50 glass-strong animate-slide-in">
+        <div className="md:hidden border-t border-gray-200/50 dark:border-gray-800/50 bg-white dark:bg-gray-950 backdrop-blur-lg shadow-lg relative z-50 animate-slide-in">
           <div className="space-y-1 px-4 pb-4 pt-3">
             {navigation.map((item) => (
               <Link
